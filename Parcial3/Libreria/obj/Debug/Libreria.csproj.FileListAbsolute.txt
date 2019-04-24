@@ -1,0 +1,4 @@
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial3\Libreria\bin\Debug\Libreria.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial3\Libreria\bin\Debug\Libreria.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial3\Libreria\obj\Debug\Libreria.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial3\Libreria\obj\Debug\Libreria.pdb
